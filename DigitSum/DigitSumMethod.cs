@@ -9,9 +9,9 @@
         }
         public static int SumDigits(int number)
         {
-            if (number / 10 == 0)
+            if (number < 10)
             {
-                return number % 10;
+                return number;
             }
             else
             {
