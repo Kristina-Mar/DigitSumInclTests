@@ -1,1 +1,1 @@
-# DigitSumInclTests
+# DigitSumInclTests Exercise - recursive method that sums the digits of an integer.
